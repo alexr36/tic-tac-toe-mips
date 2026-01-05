@@ -32,6 +32,9 @@ A classic Tic Tac Toe game implemented in MIPS assembly language with player vs.
 7|8|9
 ```
 
+### Gameplay Example
+<img src="https://github.com/alexr36/tic-tac-toe-mips/blob/ace7f08b10c0197fd0acb7c28718daf24c86dfa1/screenshots/mars_output_tictactoe.png" alt="MARS - game output"/>
+
 ## Technical Details
 
 ### Key Implementation Features
